@@ -1,10 +1,10 @@
 # eclipse
-*.classpath
-*.project
-*.settings
+.classpath
+.project
+.settings
 
 # Compiled class file
-*.class
+.class
 
 # Log file
 *.log
